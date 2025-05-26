@@ -7,7 +7,7 @@
   "resources": [
     {
       "name": "Slopegraph",
-      "path": "https://storage.googleapis.com/looker-studio-slopegraph/viz.js"
+      "path": "https://jessycamoraes.github.io/looker-studio-slopegraph/viz.js"
     }
   ],
   "style": [],
