@@ -1,14 +1,20 @@
 {
   "name": "Slopegraph Personalizado",
-  "description": "Slopegraph com estilo editável (linhas, textos, grade etc)",
-  "author": "Seu Nome",
   "id": "slopegraph_custom",
+  "version": "1.0",
+  "description": "Slopegraph com estilo editável (linhas, textos, grade etc)",
+  "author": "Seu_Nome",
   "resources": [
     {
       "name": "Slopegraph",
-      "path": "viz.js"
+      "path": "https://storage.googleapis.com/looker-studio-slopegraph/viz.js"
     }
   ],
   "style": [],
-  "scripts": []
+  "scripts": [
+    {
+      "name": "D3.js",
+      "path": "https://d3js.org/d3.v5.min.js"
+    }
+  ]
 }
