@@ -1,0 +1,14 @@
+{
+  "name": "Slopegraph Personalizado",
+  "description": "Slopegraph com estilo editável (linhas, textos, grade etc)",
+  "author": "Seu Nome",
+  "id": "slopegraph_custom",
+  "resources": [
+    {
+      "name": "Slopegraph",
+      "path": "viz.js"
+    }
+  ],
+  "style": [],
+  "scripts": []
+}
